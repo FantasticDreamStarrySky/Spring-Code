@@ -22,7 +22,7 @@ public class EmailController {
     @RequestMapping("/send")
     public Boolean send(){
         //收件人信箱
-        String to = "593140521@qq.com";
+        String to = "Fantastic.Dream.Starry.Sky@outlook.com";
         //邮件标题
         String title = "测试邮件";
         //邮件正文

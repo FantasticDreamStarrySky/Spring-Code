@@ -1,0 +1,7 @@
+#发件人相关的信息
+email:
+  user: verification_code0@163.com
+  code: XKHZSXLWTSBSIQKC
+  host: smtp.163.com
+  auth: true
+
