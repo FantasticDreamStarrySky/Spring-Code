@@ -11,9 +11,11 @@
 
 SpringBoot3+Vue学习项目
 
-[![访问量](https://profile-counter.glitch.me/FantasticDreamStarrySky-Spring-Code/count.svg)](https://github.com/FantasticDreamStarrySky/FDSS-Script)
+[![访问量](https://profile-counter.glitch.me/FantasticDreamStarrySky-Spring-Code/count.svg)](https://github.com/FantasticDreamStarrySky/Spring-Code)
 
 </div>
 
 
+<div align="center">
 <img width="120%" src="https://repobeats.axiom.co/api/embed/20f8e3912612d252d1dffff0cb0fe84288b94fee.svg" />
+</div>
