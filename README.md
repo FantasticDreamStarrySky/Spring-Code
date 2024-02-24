@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 <a href="https://zh.moegirl.org.cn/琪亚娜·卡斯兰娜(崩坏3)">
   <picture>
@@ -16,6 +16,6 @@ SpringBoot3+Vue学习项目
 </div>
 
 
-<div style="text-align: center;">
+<div align="center">
 <img width="120%" src="https://repobeats.axiom.co/api/embed/20f8e3912612d252d1dffff0cb0fe84288b94fee.svg"  alt="仓库活跃度"/>
 </div>
