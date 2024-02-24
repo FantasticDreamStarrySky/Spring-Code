@@ -4,7 +4,6 @@ import cn.itcast.pojo.Country;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
-import org.springframework.context.annotation.Bean;
 
 /**
  * @author 🌃梦幻◎星空🌃
@@ -17,14 +16,8 @@ public class SpringBootRegisterApplication {
 
         Country country = context.getBean(Country.class);
         System.out.println(country);
-    }
 
-    /**
-     * 注入Country对象
-     */
-    @Bean
-    public Country country() {
-        return new Country();
+        System.out.println(context.getBean("province"));
     }
 
 }
