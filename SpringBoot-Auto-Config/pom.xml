@@ -17,9 +17,23 @@
         <java.version>21</java.version>
     </properties>
     <dependencies>
+        <!-- SpringBoot核心起步依赖 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+
+        <!-- SpringBootWeb核心依赖 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <!-- Common-pojo -->
+        <dependency>
+            <groupId>cn.itcast</groupId>
+            <artifactId>common-pojo</artifactId>
+            <version>2.0</version>
         </dependency>
 
         <dependency>
